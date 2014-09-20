@@ -1,0 +1,17 @@
+<div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px;">
+    <!-- Slides Container -->
+    <div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 600px; height: 300px;">
+        <div><img u="image" src="image1.jpg" /></div>
+        <div><img u="image" src="image2.jpg" /></div>
+    </div>
+</div>
+
+
+
+<div id="cp_widget_5ee44379-6f82-457e-ad2d-185c0880efc9">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_5ee44379-6f82-457e-ad2d-185c0880efc9"; cpo["_fid"] = "AUMAL_ru4xly";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Streaming Hosting</a> solution.<span>New Gallery 2014/9/20</span></noscript>
